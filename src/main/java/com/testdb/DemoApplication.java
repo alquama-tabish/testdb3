@@ -10,7 +10,7 @@ public class DemoApplication {
 
                 int y = 20;
 
-		         int z = 10;
+		        float z = 20.5f;
 
 		SpringApplication.run(DemoApplication.class, args);
 	}
